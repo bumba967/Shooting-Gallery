@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "6389f22f-6dad-488f-a700-0d299d384e58",
+            "Value": {
+                "id": "413cf717-6591-4c3c-a34f-6d0b18d54b17",
+                "resourcePath": "sprites\\sprite_duck\\sprite_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f7b4b77-33f8-4f55-b86b-594a7b9fde6a",
             "Value": {
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
@@ -84,6 +92,22 @@
                 "id": "aa66d9d0-60ad-4691-8a1d-0279867d1bc6",
                 "resourcePath": "views\\75cf4df3-8fdb-49a5-921a-579f354ebc60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7632ac81-ef93-41be-b6dd-3c4f5fdec79e",
+            "Value": {
+                "id": "bf0ca181-3a2b-4304-bf2a-b8285eee0ba5",
+                "resourcePath": "sprites\\sprite_hole\\sprite_hole.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ccab077-18d9-4df9-bb5a-15912e1c8196",
+            "Value": {
+                "id": "b5ed3f6e-5631-4ac5-b46b-2d18ff2b1ced",
+                "resourcePath": "sprites\\sprite_targetduck\\sprite_targetduck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a2ac6458-7043-4650-b558-7bef6c4830af",
+            "Value": {
+                "id": "00b58d32-3a8c-43d9-bd2e-029803c3380d",
+                "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
