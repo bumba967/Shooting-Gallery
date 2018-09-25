@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "2f238d4a-b1f5-414a-9bd6-663d33f07da7",
+            "Value": {
+                "id": "8bf35864-202c-4fbb-b2aa-21cdb7a4e444",
+                "resourcePath": "sprites\\sprite_target\\sprite_target.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f215074-3567-49b4-b18c-b817c8c60567",
             "Value": {
                 "id": "84a95936-d1f2-48c5-bdce-ea7ae53100ba",
@@ -76,6 +84,14 @@
                 "id": "b8d2de59-92c7-4beb-8dac-73329677961a",
                 "resourcePath": "sprites\\sprite_bg_water\\sprite_bg_water.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6349de8e-eeb8-4380-8eaf-af808d8cd143",
+            "Value": {
+                "id": "51d71d56-fe3f-4155-ab47-807e4be2363b",
+                "resourcePath": "objects\\object_hole\\object_hole.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -183,11 +199,35 @@
             }
         },
         {
+            "Key": "a94261e3-70ec-44c8-8065-b63e170750c7",
+            "Value": {
+                "id": "e676c195-7d5a-412b-abf4-1ddb50a04b16",
+                "resourcePath": "sprites\\sprite_ammo_target\\sprite_ammo_target.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a979b681-6568-4917-b29c-c9a374a61f2b",
+            "Value": {
+                "id": "8b302bf0-fce8-4f00-aafc-b86d424f57e2",
+                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",
                 "resourcePath": "views\\b41028a6-14d7-4ecc-8410-18135ae59475.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bad15b89-34b9-4b3d-8cb8-6d28ef5ccf9f",
+            "Value": {
+                "id": "bccaae44-2453-41fe-8a45-6589e183b550",
+                "resourcePath": "sprites\\sprite_ammo\\sprite_ammo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
