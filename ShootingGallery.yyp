@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "4a207be1-4719-4635-913c-ba3e70967ed3",
+            "Value": {
+                "id": "59a59a3f-075f-4c97-9247-2b61dcfa594a",
+                "resourcePath": "sprites\\sprite_rifle\\sprite_rifle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c1f6c05-aeac-4573-9d81-89a138387b0e",
             "Value": {
                 "id": "470269e3-0854-40d9-aca4-b12ae431a881",
