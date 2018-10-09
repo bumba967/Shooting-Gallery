@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 5B77838E
 /// @DnDApplyTo : 5ea74e11-e28b-40ae-bb9c-7964fd3ab1f9
-/// @DnDArgument : "score" "15"
+/// @DnDArgument : "score" "50"
 /// @DnDArgument : "score_relative" "1"
 with(object_score) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-__dnd_score += real(15);
+__dnd_score += real(50);
 }
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance

@@ -210,8 +210,16 @@
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_main\\room_main.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9f5736e9-f679-4128-83f6-9c57f3ab5b54",
+            "Value": {
+                "id": "2defce65-75fe-4b03-bb4f-417b0361eac3",
+                "resourcePath": "objects\\object_controller\\object_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +228,14 @@
                 "id": "00b58d32-3a8c-43d9-bd2e-029803c3380d",
                 "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a5e2e8a3-17df-4894-9c7a-3b2be95dc873",
+            "Value": {
+                "id": "7a6dd3f1-ad43-4fde-8ed9-8628458c79c4",
+                "resourcePath": "timelines\\timeline_room_main\\timeline_room_main.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
