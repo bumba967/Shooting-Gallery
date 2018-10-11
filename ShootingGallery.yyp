@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "b228e09e-9a82-4413-8880-dc1105549831",
-            "Value": {
-                "id": "7631d504-ef6d-4789-bca1-ae5651b8dc67",
-                "resourcePath": "sprites\\sprite_crosshair2\\sprite_crosshair2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",

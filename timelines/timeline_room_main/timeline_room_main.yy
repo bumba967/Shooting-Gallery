@@ -5,6 +5,23 @@
     "name": "timeline_room_main",
     "momentList": [
         {
+            "id": "c447952b-dbb3-44cb-8e55-58c3dd3fe025",
+            "modelName": "GMMoment",
+            "mvc": "1.0",
+            "name": "",
+            "evnt": {
+                "id": "2b60c42a-b778-4873-be68-8d60940cd37f",
+                "modelName": "GMEvent",
+                "mvc": "1.0",
+                "IsDnD": true,
+                "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+                "enumb": 25,
+                "eventtype": 0,
+                "m_owner": "a5e2e8a3-17df-4894-9c7a-3b2be95dc873"
+            },
+            "moment": 25
+        },
+        {
             "id": "5be551a0-8b02-4ee0-87e4-447b062e8b4d",
             "modelName": "GMMoment",
             "mvc": "1.0",
